@@ -54,3 +54,4 @@ A batch script that automatically applies system-level tweaks to maximize FPS an
 (Spectre/Meltdown mitigations) reduce security in exchange for performance.
 Use on a dedicated gaming PC only.
 - This sript is only tested in Fortnite and can cause problems with other games.
+- Other games will be tested in the future!
