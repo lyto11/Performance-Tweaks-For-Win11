@@ -67,3 +67,8 @@
 1. Click **Apply** in the bottom right after every section
 2. Launch Fortnite per Epic-Games Store or with the Launch_Fortnite_Boosted.bat created on your desktop
 3. Set Fortnite in-game graphics as per the main README checklist
+
+## Disclaimer
+
+- These settings can mess with other games
+- These settings can actually make your game run worse (depends which GPU you own)
