@@ -30,7 +30,7 @@ A batch script that automatically applies system-level tweaks to maximize FPS an
 1. Right-click `win11-boost.bat` and select **Run as Administrator**
    (or just double-click — the script auto-elevates)
 2. Type `Y` when prompted to restart
-3. After reboot, follow the in-script checklist for NVIDIA Control Panel and Fortnite settings
+3. After reboot, follow the nvidia-control-panel-checklist.md file for NVIDIA Control Panel and Fortnite settings
 
 ## Requirements
 
@@ -45,7 +45,8 @@ A batch script that automatically applies system-level tweaks to maximize FPS an
 - Emoting
 
 - Before: 650-800 fps
-- After: 750-850 fps
+- After the Script: 750-850 fps
+- After the NVIDIA Control Panel Tweaks: soon
 
 ## Disclaimer
 
