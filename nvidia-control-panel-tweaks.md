@@ -6,18 +6,17 @@
 ## Fortnite settings for the best resault
 
 | Setting | Value |
+|---------|-------|
 | Window Mode | Windowed Fullscreen |
-| V-sync | Off |
-| Frame Rate Limit | your monitors refreshrate, for exsample 240hz |
+| V-Sync | Off |
+| Frame Rate Limit | Your monitor's refresh rate, for example 240Hz |
 | Rendering Mode | Performance |
-| | |
-| 3D Resolution | 100% (you can go lower but i would not recommend dropping this under 80%) |
-| View Distance | Near (best performance) Far (see items on the ground from a higher distace) | 
+| 3D Resolution | 100% (you can go lower but I would not recommend dropping this under 80%) |
+| View Distance | Near (best performance) / Far (see items on the ground from a higher distance) |
 | Textures | Low |
 | Meshes | Low |
-| | |
 | Latency Markers | Off |
-| NVIDIA Reflex Low Latency | On +Boost (recommended) On (Older GPU or Lowend GPU) |
+| NVIDIA Reflex Low Latency | On + Boost (recommended) / On (older GPU or low-end GPU) |
 | Report Performance Stats | Disabled |
 
 ## Manage 3D Settings → Global Settings
