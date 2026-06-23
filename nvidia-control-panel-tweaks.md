@@ -15,7 +15,7 @@
 | Antialiasing - Mode | Off |
 | Antialiasing - Transparency | Off |
 | Background Max Frame Rate | Off |
-| Low Latency Mode | Ultra |
+| Low Latency Mode | Ultra (Use On for lowend pcs) |
 | Max Frame Rate | Off (Unlimited) |
 | Power Management Mode | Prefer Maximum Performance |
 | Shader Cache Size | Unlimited |
