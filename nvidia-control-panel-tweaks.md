@@ -30,7 +30,7 @@
 ## Manage 3D Settings → Program Settings
 
 1. Click **Add**
-2. Find and select `FortniteClient-Win64-Shipping.exe`
+2. Find or manually add and select `FortniteClient-Win64-Shipping.exe`
 3. Apply all the same settings from the table above specifically for Fortnite
 
 > Program-specific settings override global settings and ensure Fortnite always runs with these options regardless of what other games use.
