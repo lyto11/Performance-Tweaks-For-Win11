@@ -46,7 +46,7 @@ A batch script that automatically applies system-level tweaks to maximize FPS an
 
 - Before: 650-800 fps
 - After: 750-850 fps
-- 
+
 ## Disclaimer
 
 - This script modifies registry keys and disables system services. Some changes
