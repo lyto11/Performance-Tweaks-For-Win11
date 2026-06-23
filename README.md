@@ -44,10 +44,12 @@ A batch script that automatically applies system-level tweaks to maximize FPS an
 - Looking in the Sky
 - Emoting
 
-Before: 650-800 fps
-After: Wait
+- Before: 650-800 fps
+- After: 750-850 fps
+- 
 ## Disclaimer
 
-This script modifies registry keys and disables system services. Some changes
+- This script modifies registry keys and disables system services. Some changes
 (Spectre/Meltdown mitigations) reduce security in exchange for performance.
 Use on a dedicated gaming PC only.
+- This sript is only tested in Fortnite and can cause problems with other games.
