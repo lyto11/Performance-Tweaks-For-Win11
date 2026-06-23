@@ -27,7 +27,7 @@
 
 ---
 
-## Manage 3D Settings → Program Settings
+## Manage 3D Settings → Program Settings (Optional)
 
 1. Click **Add**
 2. Find or manually add and select `FortniteClient-Win64-Shipping.exe`
