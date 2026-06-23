@@ -10,12 +10,12 @@
 | V-sync | Off |
 | Frame Rate Limit | your monitors refreshrate, for exsample 240hz |
 | Rendering Mode | Performance |
-
+| | |
 | 3D Resolution | 100% (you can go lower but i would not recommend dropping this under 80%) |
 | View Distance | Near (best performance) Far (see items on the ground from a higher distace) | 
 | Textures | Low |
 | Meshes | Low |
-
+| | |
 | Latency Markers | Off |
 | NVIDIA Reflex Low Latency | On +Boost (recommended) On (Older GPU or Lowend GPU) |
 | Report Performance Stats | Disabled |
