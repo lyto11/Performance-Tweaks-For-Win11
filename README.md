@@ -38,8 +38,16 @@ A batch script that automatically applies system-level tweaks to maximize FPS an
 - NVIDIA GPU (AMD users: GPU-specific registry tweaks will silently skip)
 - Fortnite installed at the default Epic Games path
 
+## Tested in Fortnite
+
+- Empty Map
+- Looking in the Sky
+- Emoting
+
+Before: 650-800 fps
+After: Wait
 ## Disclaimer
 
 This script modifies registry keys and disables system services. Some changes
 (Spectre/Meltdown mitigations) reduce security in exchange for performance.
-Use on a dedicated gaming PC only.D
+Use on a dedicated gaming PC only.
