@@ -44,7 +44,7 @@
 
 ---
 
-## Video → Adjust Desktop Colour Settings
+## Display → Adjust Desktop Colour Settings
 
 | Setting | Value |
 |---|---|
