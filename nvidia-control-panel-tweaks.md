@@ -54,7 +54,7 @@
 
 ---
 
-## Video → Adjust Video Colour Settings
+## Video → Adjust Video Colour Settings → Advanced
 
 | Setting | Value |
 |---|---|
