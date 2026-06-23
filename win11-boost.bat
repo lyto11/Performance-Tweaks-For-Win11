@@ -1,3 +1,4 @@
+```batch
 @echo off
 :: ============================================================
 ::  Fortnite Performance Booster for Windows 11
@@ -128,24 +129,6 @@ reg add "HKCU\SOFTWARE\Microsoft\GameBar" /v "ShowGameModeNotifications"  /t REG
 reg add "HKCU\SOFTWARE\Microsoft\DirectX\UserGpuPreferences" /v "DirectXUserGlobalSettings" /t REG_SZ /d "SwapEffectUpgradeEnable=1;" /f >nul
 
 echo     Done.
-
-:: -------------------------------------------------------
-:: 6. FORTNITE HIGH-PRIORITY LAUNCH HELPER ON DESKTOP
-:: -------------------------------------------------------
-echo [*] Creating Fortnite high-priority launch helper on Desktop...
-
-set "HELPER=%USERPROFILE%\Desktop\Launch_Fortnite_Boosted.bat"
-(
-echo @echo off
-echo echo Launching Fortnite with High Priority...
-echo start "" "C:\Program Files\Epic Games\Fortnite\FortniteGame\Binaries\Win64\FortniteClient-Win64-Shipping.exe"
-echo timeout /t 10 /nobreak ^>nul
-echo powershell -Command "Get-Process -Name 'FortniteClient-Win64-Shipping' -ErrorAction SilentlyContinue ^| ForEach-Object { $_.PriorityClass = 'High' }" ^>nul 2^>^&1
-echo echo Done! Good luck!
-echo exit
-) > "%HELPER%"
-
-echo     Created: Desktop\Launch_Fortnite_Boosted.bat
 
 :: -------------------------------------------------------
 :: 7. DISK I/O OPTIMIZATION
@@ -419,3 +402,4 @@ if /i "%reboot%"=="Y" shutdown /r /t 10 /c "Restarting to apply Fortnite optimis
 
 pause
 exit /b 0
+```
