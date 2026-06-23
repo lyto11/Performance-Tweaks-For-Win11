@@ -65,5 +65,5 @@
 ## After Applying
 
 1. Click **Apply** in the bottom right after every section
-2. Launch Fortnite
+2. Launch Fortnite per Epic-Games Store or with the 
 3. Set Fortnite in-game graphics as per the main README checklist
