@@ -72,4 +72,4 @@
 
 - These settings can mess with other games
 - These settings can actually make your game run worse (depends which GPU you own)
-- - If that is the case, simply hit the **Restore** button in the respective settings section and click **Apply**
+- If that is the case, simply hit the **Restore** button in the respective settings section and click **Apply**
