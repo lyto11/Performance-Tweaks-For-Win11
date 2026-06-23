@@ -65,5 +65,5 @@
 ## After Applying
 
 1. Click **Apply** in the bottom right after every section
-2. Launch Fortnite using `Launch_Fortnite_Boosted.bat` on your Desktop
+2. Launch Fortnite
 3. Set Fortnite in-game graphics as per the main README checklist
