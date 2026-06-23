@@ -1,2 +1,45 @@
 # Performance-Tweaks-For-Win11
 Windows 11 batch script to maximize Fortnite FPS. Tweaks power plan, GPU, CPU scheduling, memory, and disables background services/telemetry. Auto-elevates to admin. Creates a high-priority launch shortcut. Run once, restart, play.
+
+# Performance Booster for Windows 11
+
+A batch script that automatically applies system-level tweaks to maximize FPS and minimize input latency. Run once as Administrator, restart, and play.
+
+## What it does
+
+- Activates Ultimate Performance power plan (unlocks it if not already available)
+- Disables CPU core parking and forces minimum 100% processor state
+- Enables Hardware-Accelerated GPU Scheduling (HAGS)
+- Disables NVIDIA dynamic Pstate throttling and GPU power management
+- Kills Xbox Game Bar, Game DVR, and all Xbox services
+- Enables Windows Game Mode with optimised flip present model
+- Disables Meltdown/Spectre CPU mitigations (5-15% CPU gain)
+- Tunes Windows scheduler to prefer physical cores over HT cores
+- Disables memory compression and keeps kernel in non-paged RAM
+- Locks page file to fixed 4096MB to prevent mid-game resize stutter
+- Disables NTFS last-access timestamps and 8.3 filename generation
+- Removes mouse acceleration for raw 1:1 input
+- Disables 15+ background services (telemetry, Superfetch, WAP Push, etc.)
+- Disables background maintenance scheduled tasks
+- Disables Windows Update Delivery Optimization (stops upload relay)
+- Applies fullscreen optimisation disable flag to the Fortnite executable
+- Creates a Launch_Fortnite_Boosted.bat on your Desktop for High Priority launch
+
+## Usage
+
+1. Right-click `win11-boost.bat` and select **Run as Administrator**
+   (or just double-click — the script auto-elevates)
+2. Type `Y` when prompted to restart
+3. After reboot, follow the in-script checklist for NVIDIA Control Panel and Fortnite settings
+
+## Requirements
+
+- Windows 11
+- NVIDIA GPU (AMD users: GPU-specific registry tweaks will silently skip)
+- Fortnite installed at the default Epic Games path
+
+## Disclaimer
+
+This script modifies registry keys and disables system services. Some changes
+(Spectre/Meltdown mitigations) reduce security in exchange for performance.
+Use on a dedicated gaming PC only.D
