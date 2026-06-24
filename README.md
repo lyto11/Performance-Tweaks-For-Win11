@@ -261,81 +261,153 @@ ________________________________________________________________________________
 
 
 
-# 🎮 NVIDIA Control Panel – Optimale Einstellungen
+# 🎮 NVIDIA Control Panel – Beste Einstellungen nach Serie
 
 ---
 
-## 💀 Low End PC
-> GTX-Series, 2060, 2060 ti, 2060 super, 2060 ti super, 2070, 2070 super
+## GTX-Serie
 
 | Einstellung | Wert |
 |---|---|
-| Bildschärfung (Image Sharpening) | Ein – Schärfe: 50%, Körnigkeit: 17% |
-| Anisotrope Filterung | Anwendungsgesteuert |
+| Bildschärfung (NIS) | Ein – Schärfe: 50%, Körnung: 17% |
+| Umgebungsokklusion | Aus |
+| Anisotrope Filterung | 8x |
 | Anti-Aliasing – FXAA | Aus |
-| Anti-Aliasing – Modus | Aus |
+| Anti-Aliasing – Gamma-Korrektur | Ein |
+| Anti-Aliasing – Modus | Anwendungsgesteuert |
 | Anti-Aliasing – Transparenz | Aus |
-| Umgebungsokklusion (Ambient Occlusion) | Aus |
+| Multi-Frame Sampled AA (MFAA) | Ein |
+| DSR – Faktoren | Aus |
 | Low Latency Mode | Ultra |
 | Energieverwaltungsmodus | Maximale Leistung bevorzugen |
-| Max. Framerate | Monitor-Hz (z. B. 60) |
+| Max. Framerate | Monitor-Hz − 3 |
 | Shader-Cache-Größe | 10 GB |
 | Texturfilterung – Qualität | Hohe Performance |
 | Texturfilterung – Anisotrope Optimierung | Ein |
 | Texturfilterung – Trilineare Optimierung | Ein |
+| Texturfilterung – Negativer LOD-Bias | Fixieren (Clamp) |
 | Vertikale Synchronisation (VSync) | Aus |
 | Vorgerenderte Frames | 1 |
 | Dreifachpufferung | Aus |
-| DSR – Faktoren | Aus |
 
 ---
 
-## ⚡ Mid Range PC
-> 2080 super, 3060, 3060 ti, 3070, 3070 ti, 4060, 4060 ti
+## RTX 20-Serie
 
 | Einstellung | Wert |
 |---|---|
-| Bildschärfung (Image Sharpening) | Ein – Schärfe: 50%, Körnigkeit: 17% |
-| Anisotrope Filterung | 8x |
-| Anti-Aliasing – FXAA | Aus |
-| Anti-Aliasing – Modus | Anwendungsgesteuert |
-| Anti-Aliasing – Transparenz | Aus |
-| Anti-Aliasing – Gamma-Korrektur | Ein |
-| Umgebungsokklusion (Ambient Occlusion) | Performance |
-| Low Latency Mode | Ultra |
-| Energieverwaltungsmodus | Maximale Leistung bevorzugen |
-| Max. Framerate | Aus |
-| Shader-Cache-Größe | 10 GB |
-| Texturfilterung – Qualität | Performance |
-| Texturfilterung – Anisotrope Optimierung | Ein |
-| Texturfilterung – Trilineare Optimierung | Ein |
-| Vertikale Synchronisation (VSync) | Aus |
-| Vorgerenderte Frames | 1 |
-| Dreifachpufferung | Aus |
-| DSR – Faktoren | Aus |
-
----
-
-## 🔥 High End PC
-> Better than 4060 ti
-
-| Einstellung | Wert |
-|---|---|
-| Bildschärfung (Image Sharpening) | Ein – Schärfe: 33%, Körnigkeit: 17% |
+| Bildschärfung | Aus |
+| Umgebungsokklusion | Performance |
 | Anisotrope Filterung | 16x |
 | Anti-Aliasing – FXAA | Aus |
-| Anti-Aliasing – Modus | Anwendungsgesteuert |
-| Anti-Aliasing – Transparenz | 8x (Supersampling) |
 | Anti-Aliasing – Gamma-Korrektur | Ein |
-| Umgebungsokklusion (Ambient Occlusion) | Qualität |
+| Anti-Aliasing – Modus | Anwendungsgesteuert |
+| Anti-Aliasing – Transparenz | Aus |
+| Multi-Frame Sampled AA (MFAA) | Aus |
+| DSR – Faktoren | DLDSR 2.25x (nur bei GPU-Auslastung unter 80%) |
+| RTX Video Super Resolution | Aus (nicht unterstützt) |
 | Low Latency Mode | Ultra |
 | Energieverwaltungsmodus | Maximale Leistung bevorzugen |
-| Max. Framerate | Aus |
+| Max. Framerate | Monitor-Hz − 3 |
 | Shader-Cache-Größe | Unbegrenzt |
 | Texturfilterung – Qualität | Qualität |
-| Texturfilterung – Anisotrope Optimierung | Aus |
+| Texturfilterung – Anisotrope Optimierung | Ein |
 | Texturfilterung – Trilineare Optimierung | Ein |
+| Texturfilterung – Negativer LOD-Bias | Fixieren (Clamp) |
 | Vertikale Synchronisation (VSync) | Aus |
 | Vorgerenderte Frames | 1 |
 | Dreifachpufferung | Aus |
-| DSR – Faktoren | Nach Bedarf |
+
+> DLSS im NVIDIA App: **Preset K** verwenden – Preset L ist auf der 20-Serie zu langsam (kein FP8).
+
+---
+
+## RTX 30-Serie
+
+| Einstellung | Wert |
+|---|---|
+| Bildschärfung | Aus |
+| Umgebungsokklusion | Performance |
+| Anisotrope Filterung | 16x |
+| Anti-Aliasing – FXAA | Aus |
+| Anti-Aliasing – Gamma-Korrektur | Ein |
+| Anti-Aliasing – Modus | Anwendungsgesteuert |
+| Anti-Aliasing – Transparenz | Aus |
+| Multi-Frame Sampled AA (MFAA) | Aus |
+| DSR – Faktoren | DLDSR 2.25x (nur bei GPU-Auslastung unter 80%) |
+| RTX Video Super Resolution | Ein |
+| Low Latency Mode | Ultra |
+| Energieverwaltungsmodus | Maximale Leistung bevorzugen |
+| Max. Framerate | Monitor-Hz − 3 |
+| Shader-Cache-Größe | Unbegrenzt |
+| Texturfilterung – Qualität | Qualität |
+| Texturfilterung – Anisotrope Optimierung | Ein |
+| Texturfilterung – Trilineare Optimierung | Ein |
+| Texturfilterung – Negativer LOD-Bias | Fixieren (Clamp) |
+| Vertikale Synchronisation (VSync) | Aus |
+| Vorgerenderte Frames | 1 |
+| Dreifachpufferung | Aus |
+
+> DLSS im NVIDIA App: **Preset K** verwenden – Preset L ist auf der 30-Serie 15–25% langsamer (kein natives FP8).
+
+---
+
+## RTX 40-Serie
+
+| Einstellung | Wert |
+|---|---|
+| Bildschärfung | Aus |
+| Umgebungsokklusion | Qualität |
+| Anisotrope Filterung | Anwendungsgesteuert |
+| Anti-Aliasing – FXAA | Aus |
+| Anti-Aliasing – Gamma-Korrektur | Ein |
+| Anti-Aliasing – Modus | Anwendungsgesteuert |
+| Anti-Aliasing – Transparenz | Aus |
+| Multi-Frame Sampled AA (MFAA) | Aus |
+| DSR – Faktoren | DLDSR 2.25x (bei Headroom in älteren Spielen) |
+| RTX Video Super Resolution | Ein |
+| NVIDIA Smooth Motion | Ein |
+| Low Latency Mode | Ultra |
+| Energieverwaltungsmodus | Maximale Leistung bevorzugen |
+| Max. Framerate | Monitor-Hz − 3 |
+| Shader-Cache-Größe | Unbegrenzt |
+| Texturfilterung – Qualität | Hohe Qualität |
+| Texturfilterung – Anisotrope Optimierung | Ein |
+| Texturfilterung – Trilineare Optimierung | Ein |
+| Texturfilterung – Negativer LOD-Bias | Fixieren (Clamp) |
+| Vertikale Synchronisation (VSync) | Ein (mit G-Sync als Absicherung) |
+| Vorgerenderte Frames | 1 |
+| Dreifachpufferung | Aus |
+
+> DLSS im NVIDIA App: **Preset L** verwenden (FP8 vorhanden). Frame Generation + Reflex immer gemeinsam aktivieren.
+
+---
+
+## RTX 50-Serie
+
+| Einstellung | Wert |
+|---|---|
+| Bildschärfung | Aus |
+| Umgebungsokklusion | Qualität |
+| Anisotrope Filterung | Anwendungsgesteuert |
+| Anti-Aliasing – FXAA | Aus |
+| Anti-Aliasing – Gamma-Korrektur | Ein |
+| Anti-Aliasing – Modus | Anwendungsgesteuert |
+| Anti-Aliasing – Transparenz | Aus |
+| Multi-Frame Sampled AA (MFAA) | Aus |
+| DSR – Faktoren | DLDSR 2.25x (bei Headroom) |
+| RTX Video Super Resolution | Ein |
+| NVIDIA Smooth Motion | Ein |
+| Low Latency Mode | Ultra (Standard) / On (bei Dynamic MFG) |
+| Energieverwaltungsmodus | Maximale Leistung bevorzugen |
+| Max. Framerate | Monitor-Hz − 3 (Standard) / Aus (bei Dynamic MFG) |
+| Shader-Cache-Größe | Unbegrenzt |
+| Texturfilterung – Qualität | Hohe Qualität |
+| Texturfilterung – Anisotrope Optimierung | Ein |
+| Texturfilterung – Trilineare Optimierung | Ein |
+| Texturfilterung – Negativer LOD-Bias | Fixieren (Clamp) |
+| Vertikale Synchronisation (VSync) | Ein (Standard) / Aus (bei Dynamic MFG) |
+| Vorgerenderte Frames | 1 |
+| Dreifachpufferung | Aus |
+
+> DLSS im NVIDIA App: **Preset L** verwenden. ⚠️ Dynamic Multi Frame Generation ist **nicht kompatibel** mit Frame Rate Cap und VSync – beides auf Aus stellen wenn Dynamic MFG aktiv ist.
