@@ -11,8 +11,9 @@ ________________________________________________________________________________
 
 A batch script that automatically applies system-level tweaks to maximize FPS and minimize input latency. Run once as Administrator, restart, and play.
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&width=435&lines=What-it-does" alt="Typing SVG" /></a>
 ______________________________________________________________________________________________________________________________________________
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&width=435&lines=What-it-does" alt="Typing SVG" /></a>
 
 - Activates Ultimate Performance power plan (unlocks it if not already available)
 - Disables CPU core parking and forces minimum 100% processor state
