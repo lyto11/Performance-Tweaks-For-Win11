@@ -254,3 +254,88 @@ ________________________________________________________________________________
 1. Click **Apply** in the bottom right after every section
 2. Launch Fortnite per Epic-Games Store or with the Launch_Fortnite_Boosted.bat created on your desktop
 3. Set Fortnite in-game graphics as per the main README checklist
+
+
+
+
+
+
+
+# 🎮 NVIDIA Control Panel – Optimale Einstellungen
+
+---
+
+## 💀 Low End PC
+*(z. B. GT 1030, GTX 1050, GTX 1650)*
+
+| Einstellung | Wert |
+|---|---|
+| Bildschärfung (Image Sharpening) | Ein – Schärfe: 50%, Körnigkeit: 17% |
+| Anisotrope Filterung | Anwendungsgesteuert |
+| Anti-Aliasing – FXAA | Aus |
+| Anti-Aliasing – Modus | Aus |
+| Anti-Aliasing – Transparenz | Aus |
+| Umgebungsokklusion (Ambient Occlusion) | Aus |
+| Low Latency Mode | Ultra |
+| Energieverwaltungsmodus | Maximale Leistung bevorzugen |
+| Max. Framerate | Monitor-Hz (z. B. 60) |
+| Shader-Cache-Größe | 10 GB |
+| Texturfilterung – Qualität | Hohe Performance |
+| Texturfilterung – Anisotrope Optimierung | Ein |
+| Texturfilterung – Trilineare Optimierung | Ein |
+| Vertikale Synchronisation (VSync) | Aus |
+| Vorgerenderte Frames | 1 |
+| Dreifachpufferung | Aus |
+| DSR – Faktoren | Aus |
+
+---
+
+## ⚡ Mid Range PC
+*(z. B. RTX 2060, RTX 3060, RTX 3070)*
+
+| Einstellung | Wert |
+|---|---|
+| Bildschärfung (Image Sharpening) | Ein – Schärfe: 50%, Körnigkeit: 17% |
+| Anisotrope Filterung | 8x |
+| Anti-Aliasing – FXAA | Aus |
+| Anti-Aliasing – Modus | Anwendungsgesteuert |
+| Anti-Aliasing – Transparenz | Aus |
+| Anti-Aliasing – Gamma-Korrektur | Ein |
+| Umgebungsokklusion (Ambient Occlusion) | Performance |
+| Low Latency Mode | Ultra |
+| Energieverwaltungsmodus | Maximale Leistung bevorzugen |
+| Max. Framerate | Aus |
+| Shader-Cache-Größe | 10 GB |
+| Texturfilterung – Qualität | Performance |
+| Texturfilterung – Anisotrope Optimierung | Ein |
+| Texturfilterung – Trilineare Optimierung | Ein |
+| Vertikale Synchronisation (VSync) | Aus |
+| Vorgerenderte Frames | 1 |
+| Dreifachpufferung | Aus |
+| DSR – Faktoren | Aus |
+
+---
+
+## 🔥 High End PC
+*(z. B. RTX 4070, RTX 4080, RTX 4090)*
+
+| Einstellung | Wert |
+|---|---|
+| Bildschärfung (Image Sharpening) | Ein – Schärfe: 33%, Körnigkeit: 17% |
+| Anisotrope Filterung | 16x |
+| Anti-Aliasing – FXAA | Aus |
+| Anti-Aliasing – Modus | Anwendungsgesteuert |
+| Anti-Aliasing – Transparenz | 8x (Supersampling) |
+| Anti-Aliasing – Gamma-Korrektur | Ein |
+| Umgebungsokklusion (Ambient Occlusion) | Qualität |
+| Low Latency Mode | Ultra |
+| Energieverwaltungsmodus | Maximale Leistung bevorzugen |
+| Max. Framerate | Aus |
+| Shader-Cache-Größe | Unbegrenzt |
+| Texturfilterung – Qualität | Qualität |
+| Texturfilterung – Anisotrope Optimierung | Aus |
+| Texturfilterung – Trilineare Optimierung | Ein |
+| Vertikale Synchronisation (VSync) | Aus |
+| Vorgerenderte Frames | 1 |
+| Dreifachpufferung | Aus |
+| DSR – Faktoren | Nach Bedarf |
