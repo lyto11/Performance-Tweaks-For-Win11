@@ -90,7 +90,7 @@ ________________________________________________________________________________
 - Before: 
 - After the Sript:
 
-## Call of Duty Warzone - Comming Soon
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&width=435&lines=Call of Duty Warzone - Comming Soon" alt="Typing SVG" /></a>
 
 ______________________________________________________________________________________________________________________________________________
 
