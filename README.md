@@ -92,8 +92,6 @@ ________________________________________________________________________________
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&width=435&lines=Call-of-Duty-Warzone-Comming-Soon" alt="Typing SVG" /></a>
 
-______________________________________________________________________________________________________________________________________________
-
 - Map
 - looking in the sky
 - lowest settings
@@ -103,7 +101,8 @@ ________________________________________________________________________________
 
 ______________________________________________________________________________________________________________________________________________
 
-## Apex Legends - Comming Soon
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&width=435&lines=Apex-Legends-Comming-Soon" alt="Typing SVG" /></a>
+
 
 - Map
 - looking in the Sky
