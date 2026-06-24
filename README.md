@@ -65,8 +65,6 @@ ________________________________________________________________________________
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&width=435&lines=Valorant-Comming-Soon" alt="Typing SVG" /></a>
 
-______________________________________________________________________________________________________________________________________________
-
 - Map
 - Looking in the sky
 - lowest settings
@@ -75,8 +73,6 @@ ________________________________________________________________________________
 - After the Sript:
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&width=435&lines=The-Finals-Comming-Soon" alt="Typing SVG" /></a>
-
-______________________________________________________________________________________________________________________________________________
 
 - Map
 - Locking in the sky
