@@ -169,29 +169,7 @@ Use on a dedicated gaming PC only.
 - This sript is only tested in Fortnite and can cause problems with other games.
 - Other games will be tested in the future!
 
-
-# Perfect Settings for best result
-> Take your time and go through each step carefully.
-
-______________________________________________________________________________________________________________________________________________
-
-## Fortnite settings for the best resault in Fortnite (More gametest Coming Soon!)
-
-| Setting | Value |
-|---------|-------|
-| Window Mode | Windowed Fullscreen |
-| V-Sync | Off |
-| Frame Rate Limit | Your monitor's refresh rate, for example 240Hz |
-| Rendering Mode | Performance |
-| 3D Resolution | 100% (you can go lower but I would not recommend dropping this under 80%) |
-| View Distance | Near (best performance) / Far (see items on the ground from a higher distance) |
-| Textures | Low |
-| Meshes | Low |
-| Latency Markers | Off |
-| NVIDIA Reflex Low Latency | On + Boost (recommended) / On (older GPU or low-end GPU) |
-| Report Performance Stats | Disabled |
-
-# NVIDIA Control Panel Setting
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&width=435&lines=NVIDIA-Control-Panel_Settings" alt="Typing SVG" /></a>
 
 ______________________________________________________________________________________________________________________________________________
 
