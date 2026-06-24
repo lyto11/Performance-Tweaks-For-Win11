@@ -170,12 +170,8 @@ Use on a dedicated gaming PC only.
 - Other games will be tested in the future!
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&width=435&lines=NVIDIA-Control-Panel-Settings" alt="Typing SVG" /></a>
-
 ______________________________________________________________________________________________________________________________________________
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?size=35&duration=1&pause=10000&color=F74A18&width=435&lines=Disclaimer" alt="Typing SVG" /></a>
-
-______________________________________________________________________________________________________________________________________________
 
 - These settings can mess with other games
 - These settings can actually make your game run worse (depends which GPU you own)
