@@ -125,8 +125,6 @@ ________________________________________________________________________________
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&width=435&lines=Forza-Horizon-6-Comming-Soon" alt="Typing SVG" /></a>
 
-______________________________________________________________________________________________________________________________________________
-
 - Standing still at Festival
 - Highest settings possible
 - No Upscaling
@@ -135,9 +133,7 @@ ________________________________________________________________________________
 - Before: 
 - After the Sript:
 
-## Rust - Comming Soon
-
-______________________________________________________________________________________________________________________________________________
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&width=435&lines=Rust-Comming-Soon" alt="Typing SVG" /></a>
 
 - looking in the Sky
 - No Upscaling
