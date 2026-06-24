@@ -169,7 +169,7 @@ Use on a dedicated gaming PC only.
 - This sript is only tested in Fortnite and can cause problems with other games.
 - Other games will be tested in the future!
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&width=435&lines=NVIDIA-Control-Panel_Settings" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&width=435&lines=NVIDIA-Control-Panel-Settings" alt="Typing SVG" /></a>
 
 ______________________________________________________________________________________________________________________________________________
 
