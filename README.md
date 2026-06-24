@@ -38,7 +38,9 @@ A batch script that automatically applies system-level tweaks to maximize FPS an
 - NVIDIA GPU (AMD users: GPU-specific registry tweaks will silently skip)
 - Fortnite installed at the default Epic Games path
 
-## Tested in Fortnite
+# Tested in competitive Games
+
+## Fortnite
 
 - Empty Map
 - Looking in the Sky
@@ -48,26 +50,96 @@ A batch script that automatically applies system-level tweaks to maximize FPS an
 - After the Script: 750-850 fps
 - After the NVIDIA Control Panel Tweaks: soon
 
-## Tested in Valorant - Comming Soon
+## Valorant - Comming Soon
 
 - Map
 - Looking in the sky
 - lowest settings
 
 - Before: 
-- After the Sript
+- After the Sript:
 
-## Tested in The Finals - Comming Soon
+## The Finals - Comming Soon
 
 - Map
 - Locking in the sky
 - lowest settings - RT off
 
-## Tested in Counter Strike 2 - Comming Soon
+- Before: 
+- After the Sript:
+
+## Counter Strike 2 - Comming Soon
 
 -Map
 -Looking in the sky
 -lowest settings
+
+- Before: 
+- After the Sript:
+
+## Call of Duty Warzone - Comming Soon
+
+- Map
+- looking in the sky
+- lowest settings
+
+- Before: 
+- After the Sript:
+
+## Apex Legends - Comming Soon
+
+- Map
+- looking in the Sky
+- lowest settings
+
+- Before: 
+- After the Sript:
+
+## Overwatch - Comming Soon
+
+- Map
+- looking in the sky
+- lowest settings
+
+- Before: 
+- After the Sript:
+
+# Tested in graphics-intensive Games
+
+## Forza Horizon 6 - Comming Soon
+
+- Standing still at Festival
+- Highest settings possible
+- No Upscaling
+- No Framegeneration
+
+- Before: 
+- After the Sript:
+
+## Rust - Comming Soon
+
+- looking in the Sky
+- No Upscaling
+
+- Before: 
+- After the Sript:
+
+# Benchmark Programms
+
+## 3d Mark Time Spy - Comming Soon
+
+- Before: 
+- After the Sript:
+
+## Boundary Benchmark - Comming Soon
+
+- 1080p
+- No Upscaling
+
+- Before: 
+- After the Sript:
+
+
 
 ## Disclaimer
 
