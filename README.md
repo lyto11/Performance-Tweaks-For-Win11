@@ -60,7 +60,7 @@ Use on a dedicated gaming PC only.
 - Other games will be tested in the future!
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&width=435&lines=After-appling" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&width=435&lines=After-applying" alt="Typing SVG" /></a>
 
 1. Click **Apply** in the bottom right after every section
 2. Launch Fortnite per Epic-Games Store or with the Launch_Fortnite_Boosted.bat created on your desktop
