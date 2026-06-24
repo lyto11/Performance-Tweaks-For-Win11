@@ -1,5 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?size=35&lines=Performance-Tweaks-For-Win11&width=435" alt="Typing SVG" /></a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?size=35&duration=1&pause=10000&lines=Performance-Tweaks-For-Win11&width=435" alt="Typing SVG" /></a>
 ______________________________________________________________________________________________________________________________________________
 
 
