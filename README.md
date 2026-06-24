@@ -161,7 +161,7 @@ ________________________________________________________________________________
 
 ______________________________________________________________________________________________________________________________________________
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/demo/?size=35&duration=1&color=F74A18&lines=Disclaimer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?size=35&duration=1&color=F74A18&width=435&lines=Disclaimer" alt="Typing SVG" /></a>
 
 - This script modifies registry keys and disables system services. Some changes
 (Spectre/Meltdown mitigations) reduce security in exchange for performance.
