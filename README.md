@@ -5,8 +5,6 @@ Windows 11 batch script to maximize Fortnite FPS. Tweaks power plan, GPU, CPU sc
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&width=435&lines=Performance-Booster-for-Windows-11" alt="Typing SVG" /></a>)
 
-# Performance Booster for Windows 11
-
 A batch script that automatically applies system-level tweaks to maximize FPS and minimize input latency. Run once as Administrator, restart, and play.
 
 ## What it does
