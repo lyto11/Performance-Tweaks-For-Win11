@@ -49,6 +49,8 @@ ________________________________________________________________________________
 - NVIDIA GPU (AMD users: GPU-specific registry tweaks will silently skip)
 - Fortnite installed at the default Epic Games path
 
+______________________________________________________________________________________________________________________________________________
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&width=435&lines=Tested-in-Competitive-Games" alt="Typing SVG" /></a>
 
 ______________________________________________________________________________________________________________________________________________
