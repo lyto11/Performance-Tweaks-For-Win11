@@ -70,9 +70,9 @@ A batch script that automatically applies system-level tweaks to maximize FPS an
 
 ## Counter Strike 2 - Comming Soon
 
--Map
--Looking in the sky
--lowest settings
+- Map
+- Looking in the sky
+- lowest settings
 
 - Before: 
 - After the Sript:
