@@ -48,6 +48,27 @@ A batch script that automatically applies system-level tweaks to maximize FPS an
 - After the Script: 750-850 fps
 - After the NVIDIA Control Panel Tweaks: soon
 
+## Tested in Valorant - Comming Soon
+
+- Map
+- Looking in the sky
+- lowest settings
+
+- Before: 
+- After the Sript
+
+## Tested in The Finals - Comming Soon
+
+- Map
+- Locking in the sky
+- lowest settings - RT off
+
+## Tested in Counter Strike 2 - Comming Soon
+
+-Map
+-Looking in the sky
+-lowest settings
+
 ## Disclaimer
 
 - This script modifies registry keys and disables system services. Some changes
