@@ -1,18 +1,3 @@
-![heading](https://via.placeholder.com/400x50/0000FF/FFFFFF?text=My+Heading)
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="50">
-  <text x="0" y="35" font-size="30" fill="#e74c3c">My Heading</text>
-</svg>
-![heading](./heading.svg)
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&color=F70000&lines=My+Red+Heading" />
-> [!NOTE]
-> Blue info callout
-
-> [!WARNING]
-> Yellow warning callout
-
-> [!CAUTION]
-> Red caution callout
-
 # Performance-Tweaks-For-Win11
 Windows 11 batch script to maximize Fortnite FPS. Tweaks power plan, GPU, CPU scheduling, memory, and disables background services/telemetry. Auto-elevates to admin. Creates a high-priority launch shortcut. Run once, restart, play.
 
@@ -259,3 +244,8 @@ Use on a dedicated gaming PC only.
 2. Launch Fortnite per Epic-Games Store or with the Launch_Fortnite_Boosted.bat created on your desktop
 3. Set Fortnite in-game graphics as per the main README checklist
 
+
+
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="50">
+  <text x="0" y="38" font-family="monospace" font-size="28" font-weight="bold" fill="#58A6FF">Performance-Tweaks-For-Win11</text>
+</svg>
