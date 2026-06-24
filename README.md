@@ -33,8 +33,7 @@ ________________________________________________________________________________
 - Applies fullscreen optimisation disable flag to the Fortnite executable
 - Creates a Launch_Fortnite_Boosted.bat on your Desktop for High Priority launch
 
-## Usage
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&width=435&lines=Usage" alt="Typing SVG" /></a>
 ______________________________________________________________________________________________________________________________________________
 
 1. Right-click `win11-boost.bat` and select **Run as Administrator**
@@ -42,7 +41,7 @@ ________________________________________________________________________________
 2. Type `Y` when prompted to restart
 3. After reboot, follow the nvidia-control-panel-checklist.md file for NVIDIA Control Panel and Fortnite settings
 
-## Requirements
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&width=435&lines=Requirements" alt="Typing SVG" /></a>
 
 ______________________________________________________________________________________________________________________________________________
 
@@ -50,7 +49,7 @@ ________________________________________________________________________________
 - NVIDIA GPU (AMD users: GPU-specific registry tweaks will silently skip)
 - Fortnite installed at the default Epic Games path
 
-# Tested in competitive Games
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&width=435&lines=Tested in Competitive Games" alt="Typing SVG" /></a>
 
 ______________________________________________________________________________________________________________________________________________
 
