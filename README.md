@@ -117,8 +117,6 @@ ________________________________________________________________________________
 - Before: 
 - After the Sript:
 
-______________________________________________________________________________________________________________________________________________
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&width=435&lines=Tested-in-graphics-intensive-Games" alt="Typing SVG" /></a>
 
 ______________________________________________________________________________________________________________________________________________
@@ -150,14 +148,10 @@ ________________________________________________________________________________
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&width=435&lines=3d-Mark-Time-Spy-Comming-Soon" alt="Typing SVG" /></a>
 
-______________________________________________________________________________________________________________________________________________
-
 - Before: 
 - After the Sript:
 
-## Boundary Benchmark - Comming Soon
-
-______________________________________________________________________________________________________________________________________________
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&width=435&lines=Boundary-Benchmark-Comming-Soon" alt="Typing SVG" /></a>
 
 - 1080p
 - No Upscaling
