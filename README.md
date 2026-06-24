@@ -99,10 +99,7 @@ ________________________________________________________________________________
 - Before: 
 - After the Sript:
 
-______________________________________________________________________________________________________________________________________________
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&width=435&lines=Apex-Legends-Comming-Soon" alt="Typing SVG" /></a>
-
 
 - Map
 - looking in the Sky
@@ -113,7 +110,7 @@ ________________________________________________________________________________
 
 ______________________________________________________________________________________________________________________________________________
 
-## Overwatch - Comming Soon
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&width=435&lines=Overwatch-Comming-Soon" alt="Typing SVG" /></a>
 
 - Map
 - looking in the sky
