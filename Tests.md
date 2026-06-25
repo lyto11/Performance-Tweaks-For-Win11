@@ -64,6 +64,8 @@
 - Before: 
 - After the Sript:
 
+__________________
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?size=30&duration=1&pause=10000&width=500&height=45&lines=Tested+in+Graphics-intensive+Games" alt="Typing SVG" /></a>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&width=435&lines=Forza-Horizon-6-Comming-Soon" alt="Typing SVG" /></a>
@@ -83,6 +85,8 @@
 
 - Before: 
 - After the Sript:
+
+__________________
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?size=30&duration=1&pause=10000&width=500&height=45&lines=Benchmark+Programms" alt="Typing SVG" /></a>
 
