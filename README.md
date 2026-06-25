@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?size=45&duration=1&pause=10000&width=750&height=61&lines=Performance-Tweaks-For-Win11" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?size=45&duration=1&pause=10000&width=750&height=63&lines=Performance-Tweaks-For-Win11" alt="Typing SVG" /></a>
 
 Windows 11 batch script to maximize Fortnite FPS. Tweaks power plan, GPU, CPU scheduling, memory, and disables background services/telemetry. Auto-elevates to admin. Creates a high-priority launch shortcut. Run once, restart, play.
 
