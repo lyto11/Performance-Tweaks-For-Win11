@@ -92,9 +92,6 @@ ________________________________________________________________________________
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&width=435&lines=Benchmark-Programms" alt="Typing SVG" /></a>
 
-
-______________________________________________________________________________________________________________________________________________
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&width=435&lines=3d-Mark-Time-Spy-Comming-Soon" alt="Typing SVG" /></a>
 
 - Before: 
