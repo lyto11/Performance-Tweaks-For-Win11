@@ -33,3 +33,6 @@ ________________________________________________________________________________
 Use on a dedicated gaming PC only.
 - This sript is only tested in Fortnite and can cause problems with other games.
 - Other games will be tested in the future!
+
+
+https://github.com/lyto11/Performance-Tweaks-For-Win11/blob/438346403300f42f8994c4a640adf7368f22dc0b/Usage.md
