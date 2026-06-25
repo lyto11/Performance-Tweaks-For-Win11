@@ -42,6 +42,7 @@ Use on a dedicated gaming PC only.
 - This sript is only tested in Fortnite and can cause problems with other games.
 - Other games will be tested in the future!
 
+______________________________________________________________________________________________________________________________________________
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&width=435&lines=After-applying" alt="Typing SVG" /></a>
 
