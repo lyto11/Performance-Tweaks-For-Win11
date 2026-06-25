@@ -32,14 +32,6 @@ ________________________________________________________________________________
 
 ______________________________________________________________________________________________________________________________________________
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&width=435&lines=After-applying" alt="Typing SVG" /></a>
-
-1. Click **Apply** in the bottom right after every section
-2. Launch Fortnite per Epic-Games Store or with the Launch_Fortnite_Boosted.bat created on your desktop
-3. Set Fortnite in-game graphics as per the main README checklist
-
-______________________________________________________________________________________________________________________________________________
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?size=35&duration=1&pause=10000&color=F74A18&width=435&lines=Disclaimer" alt="Typing SVG" /></a>
 
 - This script modifies registry keys and disables system services. Some changes
