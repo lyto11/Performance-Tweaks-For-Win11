@@ -26,12 +26,6 @@ ________________________________________________________________________________
 
 ______________________________________________________________________________________________________________________________________________
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&width=435&lines=Requirements" alt="Typing SVG" /></a>
-
-- Windows 11
-
-______________________________________________________________________________________________________________________________________________
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?size=35&duration=1&pause=10000&color=F74A18&width=435&lines=Disclaimer" alt="Typing SVG" /></a>
 
 - This script modifies registry keys and disables system services. Some changes
