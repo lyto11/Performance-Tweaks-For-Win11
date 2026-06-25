@@ -1,7 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&width=435&lines=Tested-in-Competitive-Games" alt="Typing SVG" /></a>
 
-______________________________________________________________________________________________________________________________________________
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&width=435&lines=Fortnite" alt="Typing SVG" /></a>
 
 - Empty Map
@@ -68,8 +66,6 @@ ________________________________________________________________________________
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&width=435&lines=Tested-in-graphics-intensive-Games" alt="Typing SVG" /></a>
 
-______________________________________________________________________________________________________________________________________________
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&width=435&lines=Forza-Horizon-6-Comming-Soon" alt="Typing SVG" /></a>
 
 - Standing still at Festival
@@ -87,8 +83,6 @@ ________________________________________________________________________________
 
 - Before: 
 - After the Sript:
-
-______________________________________________________________________________________________________________________________________________
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&width=435&lines=Benchmark-Programms" alt="Typing SVG" /></a>
 
