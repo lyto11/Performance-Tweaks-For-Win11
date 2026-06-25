@@ -8,7 +8,6 @@
 
 - Before: 650-800 fps
 - After the Script: 750-850 fps
-- After the NVIDIA Control Panel Tweaks: soon
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&width=435&lines=Valorant-Comming-Soon" alt="Typing SVG" /></a>
 
