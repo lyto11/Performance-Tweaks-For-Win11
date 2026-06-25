@@ -24,9 +24,9 @@ ________________________________________________________________________________
 - Applies fullscreen optimisation disable flag to the Fortnite executable
 - Creates a Launch_Fortnite_Boosted.bat on your Desktop for High Priority launch
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&width=435&lines=Requirements" alt="Typing SVG" /></a>
-
 ______________________________________________________________________________________________________________________________________________
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&width=435&lines=Requirements" alt="Typing SVG" /></a>
 
 - Windows 11
 - NVIDIA GPU (AMD users: GPU-specific registry tweaks will silently skip)
