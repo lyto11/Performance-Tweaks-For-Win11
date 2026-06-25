@@ -30,7 +30,6 @@ ________________________________________________________________________________
 
 - Windows 11
 - NVIDIA GPU (AMD users: GPU-specific registry tweaks will silently skip)
-- Fortnite installed at the default Epic Games path
 
 ______________________________________________________________________________________________________________________________________________
 
