@@ -1,7 +1,7 @@
 ```batch
 @echo off
 :: ============================================================
-::  Fortnite Performance Booster for Windows 11
+::  Windows 11 Performance Booster
 ::  Auto-elevates to Administrator if needed
 :: ============================================================
 
@@ -23,12 +23,12 @@ if '%errorlevel%' NEQ '0' (
     pushd "%CD%"
     CD /D "%~dp0"
 
-title Fortnite Performance Booster
+title Windows 11 Performance Booster
 color 0B
 
 echo.
 echo  ============================================================
-echo   Fortnite Performance Booster for Windows 11
+echo   Windows 11 Performance Booster
 echo  ============================================================
 echo.
 
@@ -116,19 +116,6 @@ sc stop   "XboxNetApiSvc"  >nul 2>&1
 
 echo     Done.
 
-:: -------------------------------------------------------
-:: 5. ENABLE WINDOWS GAME MODE
-:: -------------------------------------------------------
-echo [*] Enabling Game Mode and optimised presentation...
-
-reg add "HKCU\SOFTWARE\Microsoft\GameBar" /v "AllowAutoGameMode"          /t REG_DWORD /d 1 /f >nul
-reg add "HKCU\SOFTWARE\Microsoft\GameBar" /v "AutoGameModeEnabled"        /t REG_DWORD /d 1 /f >nul
-reg add "HKCU\SOFTWARE\Microsoft\GameBar" /v "ShowGameModeNotifications"  /t REG_DWORD /d 0 /f >nul
-
-:: Use optimised flip present model for borderless/windowed mode
-reg add "HKCU\SOFTWARE\Microsoft\DirectX\UserGpuPreferences" /v "DirectXUserGlobalSettings" /t REG_SZ /d "SwapEffectUpgradeEnable=1;" /f >nul
-
-echo     Done.
 
 :: -------------------------------------------------------
 :: 7. DISK I/O OPTIMIZATION
@@ -224,8 +211,9 @@ echo     Done.
 :: -------------------------------------------------------
 echo [*] Disabling Fullscreen Optimizations for lower latency...
 
-:: Disable FSO globally via compatibility flag on the Fortnite executable
-reg add "HKCU\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Layers" /v "C:\Program Files\Epic Games\Fortnite\FortniteGame\Binaries\Win64\FortniteClient-Win64-Shipping.exe" /t REG_SZ /d "~ DISABLEDXMAXIMIZEDWINDOWEDMODE" /f >nul
+:: Disable FSO globally via compatibility flag on your game executable
+:: Replace the path below with the path to your game's .exe
+reg add "HKCU\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Layers" /v "C:\Path\To\Your\Game.exe" /t REG_SZ /d "~ DISABLEDXMAXIMIZEDWINDOWEDMODE" /f >nul
 
 echo     Done.
 
@@ -273,7 +261,7 @@ echo     Done.
 :: -------------------------------------------------------
 echo [*] Maximizing NVIDIA shader cache...
 
-:: Set shader cache size to unlimited (stops Fortnite recompiling shaders = no stutter)
+:: Set shader cache size to unlimited (stops games recompiling shaders = no stutter)
 reg add "HKLM\SYSTEM\CurrentControlSet\Services\nvlddmkm\Global" /v "DxgDdiBlend" /t REG_DWORD /d 0 /f >nul
 reg add "HKCU\SOFTWARE\NVIDIA Corporation\Global\NVTweak" /v "Perf Level Ovr" /t REG_DWORD /d 0x00000003 /f >nul
 
@@ -374,31 +362,14 @@ echo     Done.
 :: -------------------------------------------------------
 echo.
 echo  ============================================================
-echo   All Fortnite optimisations applied!
+echo   All Windows 11 optimisations applied!
 echo.
-echo   CRITICAL CHECKLIST:
-echo   [1] RESTART YOUR PC (required - GPU + CPU + power changes)
-echo   [2] Update GPU Drivers (NVIDIA/AMD latest)
-echo   [3] NVIDIA Control Panel:
-echo       - Power Management: Maximum Performance
-echo       - Low Latency Mode: Ultra
-echo       - Max Frame Rate: Unlimited
-echo   [4] Fortnite Graphics Settings:
-echo       - Rendering Mode: DirectX 12 (NOT 11)
-echo       - Frame Rate Limit: Unlimited or 240+
-echo       - 3D Resolution: 100%%
-echo       - Shadows: OFF
-echo       - Anti-Aliasing: FXAA or OFF
-echo       - Effects: Low
-echo       - Textures: Medium
-echo       - Motion Blur: OFF
-echo   [5] Use Launch_Fortnite_Boosted.bat on your Desktop
-echo   [6] Windows Settings > Gaming > Game Mode: ON
+
 echo  ============================================================
 echo.
 
 set /p reboot="Restart now for best results? (Y/N): "
-if /i "%reboot%"=="Y" shutdown /r /t 10 /c "Restarting to apply Fortnite optimisations..."
+if /i "%reboot%"=="Y" shutdown /r /t 10 /c "Restarting to apply Windows 11 optimisations..."
 
 pause
 exit /b 0
