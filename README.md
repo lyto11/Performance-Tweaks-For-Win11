@@ -33,3 +33,4 @@ ________________________________________________________________________________
 Use on a dedicated gaming PC only.
 - This sript is only tested in Fortnite and can cause problems with other games.
 - Other games will be tested in the future!
+- Only use the Tested version 1.0 - the other versions may brake your system!
