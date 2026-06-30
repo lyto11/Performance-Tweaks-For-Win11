@@ -22,7 +22,7 @@ ________________________________________________________________________________
 - Disables background maintenance scheduled tasks
 - Disables Windows Update Delivery Optimization (stops upload relay)
 - Applies fullscreen optimisation disable flag to the Fortnite executable
-- Creates a Launch_Fortnite_Boosted.bat on your Desktop for High Priority launch
+______________________________________________________________________________________________________________________________________________
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?size=30&duration=1&pause=10000&width=500&height=45&lines=Usage" alt="Typing SVG" /></a> 
 ______________________________________________________________________________________________________________________________________________
