@@ -1,4 +1,3 @@
-```batch
 @echo off
 :: ============================================================
 ::  Windows 11 Performance Booster
@@ -37,12 +36,25 @@ echo.
 :: -------------------------------------------------------
 echo [*] Setting power plan...
 
+:: Fallback baseline in case Ultimate Performance can't be unlocked on this system
 powercfg /setactive 8c5e7fda-e8bf-4a96-9a85-a6e23a8c635c >nul 2>&1
 
-:: Try to unlock and activate Ultimate Performance
-powercfg /duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61 >nul 2>&1
-for /f "tokens=4" %%G in ('powercfg /list ^| findstr "Ultimate"') do (
-    powercfg /setactive %%G >nul 2>&1
+:: Check whether Ultimate Performance is already unlocked (i.e. already shows up
+:: in the plan list). If it does, just activate it - don't duplicate it again,
+:: since /duplicatescheme creates a brand new "Ultimate Performance" entry every
+:: time it's called, leaving you with a pile of duplicates after repeat runs.
+set "ULTGUID="
+for /f "tokens=4" %%G in ('powercfg /list ^| findstr "Ultimate"') do set "ULTGUID=%%G"
+
+if defined ULTGUID (
+    echo     Ultimate Performance already unlocked - activating it.
+    powercfg /setactive %ULTGUID% >nul 2>&1
+) else (
+    echo     Ultimate Performance not found - unlocking it now.
+    powercfg /duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61 >nul 2>&1
+    for /f "tokens=4" %%G in ('powercfg /list ^| findstr "Ultimate"') do (
+        powercfg /setactive %%G >nul 2>&1
+    )
 )
 
 echo     Power plan set.
@@ -372,4 +384,3 @@ if /i "%reboot%"=="Y" shutdown /r /t 10 /c "Restarting to apply Windows 11 optim
 
 pause
 exit /b 0
-```
