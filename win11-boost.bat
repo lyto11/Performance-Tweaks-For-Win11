@@ -158,7 +158,6 @@ sc config "SysMain"          start= disabled >nul 2>&1 & :: Superfetch - not nee
 sc stop   "SysMain"          >nul 2>&1
 sc config "DiagTrack"        start= disabled >nul 2>&1 & :: Telemetry
 sc stop   "DiagTrack"        >nul 2>&1
-sc config "WSearch"          start= disabled >nul 2>&1 & :: Windows Search indexer
 sc config "dmwappushservice" start= disabled >nul 2>&1 & :: WAP Push
 sc config "MapsBroker"       start= disabled >nul 2>&1 & :: Downloaded Maps
 sc config "RetailDemo"       start= disabled >nul 2>&1 & :: Retail Demo Service
